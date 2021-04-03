@@ -1,0 +1,3 @@
+﻿  GameScene.cpp
+C:\Users\kadee\source\repos\Setup\Setup\Engine\Graphics\TextureHandler.h(13,21): warning C4244: 'initializing': conversion from 'float' to 'GLuint', possible loss of data
+  Setup.vcxproj -> C:\Users\kadee\source\repos\Setup\Debug\Setup.exe

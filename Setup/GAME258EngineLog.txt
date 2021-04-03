@@ -1,0 +1,3 @@
+[INFO]:INFOin:StartScene.cpp on line:12
+[INFO]:Everything workedin:CoreEngine.cpp on line:40
+[INFO]:INFOin:GameScene.cpp on line:16
